@@ -1,6 +1,6 @@
-# Salesforce DX Project: Next Steps
+# What is Scheduler
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+Scheduler is the project which will schedule the the Tasks in automated way and show Dashboard to Controller on what is status on each JOB
 
 ## How Do You Plan to Deploy Your Changes?
 
