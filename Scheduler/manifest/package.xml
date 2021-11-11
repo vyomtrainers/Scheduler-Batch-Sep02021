@@ -8,6 +8,9 @@
         <members>*</members>
         <name>CustomObject</name>
     </types>
+     <types> <members>JOB Layout</members> 
+            <name>Layout</name> 
+    </types>  
     <types>
         <members>*</members>
         <name>ApexComponent</name>
@@ -37,7 +40,7 @@
         <name>StaticResource</name>
     </types>
     <types>
-        <members>*</members>
+        <members>Scheduler</members>
         <name>CustomApplication</name>
     </types>    
     <types>
